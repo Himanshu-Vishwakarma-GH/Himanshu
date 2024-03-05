@@ -1,9 +1,9 @@
-👋 Hi, I’m Himanshu Vishwakarma , currently a student At Chhatrapati Shivaji Maharaj University. 
+👋 Hi, I’m Himanshu Vishwakarma , Currently A Student At Chhatrapati Shivaji Maharaj University. 
 
-👀 I’m interested in Data Science/Data Analytics. 
+👀 I’m Interested In Data Science / Data Analytics. 
 
-🌱 I’m currently learning Python data visualization. 
+🌱 I’m Currently Learning Python Data Visualization. 
 
-💞️ I’m looking to collaborate on projects to showcase my coding skills and make great connections. 
+💞️ I’m Looking To Collaborate On Projects To Showcase My Coding Skills And Make Great Connections. 
 
-📫 How to reach me: You can email me at hvishwakarma003@gmail.com.
+📫 How To Reach Me: You Can E-mail Me At hvishwakarma003@gmail.com .
